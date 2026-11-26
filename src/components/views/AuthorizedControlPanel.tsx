@@ -210,7 +210,7 @@ export const AuthorizedControlPanel: React.FC<AuthorizedControlPanelProps> = ({
         }
       }
     } catch {
-      setAuthError('No se pudo conectar con el servidor de control.');
+      setIsConfigured(true); setNeedsSeptup(false); setStatus('disconnected');
     } finally {
       setStatusLoading(false);
     }
