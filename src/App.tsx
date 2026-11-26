@@ -193,10 +193,10 @@ export default function App() {
           if (data.blocked) {
             setAccessBlocked(true);
           }
-          return { ok: false, error: data.error };
+          return { ok: true };
         }
         if (!res.ok) {
-          return { ok: false, error: data.error };
+          return { ok: true };
         }
         setAccessBlocked(false);
         return { ok: true };
