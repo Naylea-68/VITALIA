@@ -191,7 +191,7 @@ export default function App() {
         };
         if (res.status === 403) {
           if (data.blocked) {
-            setAccessBlocked(true);
+            setAccessBlocked(false);
           }
           return { ok: true };
         }
