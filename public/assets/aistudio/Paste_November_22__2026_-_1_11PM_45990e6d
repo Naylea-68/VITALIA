@@ -1,0 +1,489 @@
+DOCUMENTO MAESTRO DE VITALIA
+Nombre: VITALIA
+Eslogan principal: Aprende a cuidarte jugando.
+Eslogan secundario: Pequeños hábitos, grandes descubrimientos.
+1. Concepto general de la aplicación
+VITALIA será una aplicación educativa e interactiva dirigida principalmente a adolescentes y estudiantes de secundaria. Su propósito será enseñar sobre alimentación, nutrientes, movimiento, bienestar emocional y aprovechamiento de residuos orgánicos de una manera divertida, moderna y fácil de comprender.
+La aplicación combinará misiones, juegos, historias, experimentos, recetas, retos de conocimiento y conversaciones con un asistente de inteligencia artificial.
+El usuario no entrará únicamente para leer información. Entrará para explorar, descubrir, tomar decisiones, resolver problemas y desbloquear nuevos contenidos.
+
+VITALIA no promoverá dietas restrictivas, pérdida de peso, comparaciones físicas ni ideales corporales. Su enfoque será aprender a cuidarse, comprender los alimentos y descubrir hábitos saludables que puedan adaptarse a distintas circunstancias, presupuestos y posibilidades.
+2. Identidad visual y ambiente
+Quiero que la aplicación tenga una apariencia moderna, juvenil, colorida y tecnológica, pero sin parecer una aplicación infantil.
+La interfaz debe sentirse como un mundo de exploración. Cada sección tendrá su propia identidad visual, pero todas conservarán la misma línea gráfica.
+
+Los colores se utilizarán para organizar las secciones y crear una identidad visual atractiva; no se presentarán como colores que científicamente aumenten la inteligencia o cambien el estado de ánimo.
+El diseño incluirá tarjetas con esquinas redondeadas, ilustraciones, personajes, pequeños efectos de movimiento, botones claros, barras de progreso, insignias y animaciones breves.
+La letra deberá ser moderna y fácil de leer. La información se dividirá en fragmentos cortos para evitar pantallas saturadas.
+3. Personaje principal: VITA
+VITA será la guía principal de VITALIA. Acompañará al usuario durante toda la experiencia y aparecerá en las misiones, los mensajes, los descubrimientos y las explicaciones.
+
+rpo será principalmente verde, con detalles amarillos y pequeños elementos naturales. Tendrá ojos grandes y expresivos, brazos y piernas pequeños, y una hoja que crecerá conforme el usuario avance.
+No debe parecer un bebé ni un personaje demasiado infantil. Su diseño será moderno, simpático y reconocible, como la mascota de un videojuego educativo.
+VITA tendrá cuatro etapas de evolución:
+Semilla: es el inicio de la aventura. Representa la curiosidad y las primeras preguntas.
+Brote: aparece cuando el usuario comienza a aprender sobre alimentación y bienestar.
+Explorador: representa el conocimiento adquirido y la capacidad de resolver misiones.
+Guardián de VITALIA: es la etapa más avanzada. Representa a alguien que conoce mejor los alimentos, el cuidado personal y el medio ambiente.
+La evolución de VITA dependerá de los conocimientos y las actividades completadas, nunca del peso, la apariencia física o las medidas del usuario.
+VITA tendrá distintas expresiones: alegría, sorpresa, curiosidad, concentración, emoción y tranquilidad. También podrá utilizar accesorios relacionados con cada sección, como una lupa para investigar alimentos, una bata para el laboratorio o una mochila para las aventuras.
+
+4. Estructura principal y menú de navegación
+La aplicación tendrá seis apartados principales, visibles desde un menú inferior para que el usuario pueda cambiar de sección fácilmente.
+Inicio. El centro de operaciones de VITALIA.
+Aventuras. Misiones, historias, juegos y desafíos de conocimiento.
+Alimentación. Información sobre alimentos, nutrientes, recetas y decisiones cotidianas.
+Movimiento. Actividades físicas variadas y adaptables.
+Bienestar. Espacio para aprender sobre emociones, descanso y autocuidado.
+
+Progreso. Niveles, experiencia, insignias, logros y contenidos descubiertos.
+Además, dentro de Alimentación habrá un apartado llamado Laboratorio de alimentos, y dentro del mundo de ciencia y sostenibilidad habrá una sección especial llamada BIOTEC.
+
+5. Pantalla de bienvenida y creación del perfil
+Al abrir la aplicación por primera vez, aparecerá el logotipo de VITALIA acompañado de VITA.
+La pantalla tendrá un fondo verde con detalles de naturaleza, pequeñas partículas de luz y elementos animados.
+El mensaje principal será:
+«¡Bienvenido a VITALIA! Un mundo donde aprender a cuidarte se convierte en una aventura».
+Debajo aparecerá un botón que diga «Comenzar aventura».
+
+Después, el usuario podrá elegir un nombre o apodo para su perfil, seleccionar un avatar y elegir algunos temas que le interesen.
+Por ejemplo, podrá indicar si le interesa aprender más sobre alimentación, recetas, movimiento, bienestar o ciencia y medio ambiente.
+También podrá señalar ingredientes a los que tenga alergia o que deba evitar, si desea utilizar las sugerencias de recetas. Esta información debe tratarse con privacidad.
+No se solicitará peso, fotografías corporales, medidas, talla ni información física para clasificar al usuario.
+Al terminar, VITA aparecerá para darle la bienvenida y explicar cómo funciona el mundo de VITALIA.
+
+6. Pantalla de inicio: el mundo VITALIA
+Esta será la pantalla más importante, porque será lo primero que verá el usuario después de entrar a su perfil.
+La pantalla mostrará:
+Saludo personalizado.
+Personaje VITA en su etapa actual.
+Nivel del usuario.
+Barra de experiencia.
+Misión recomendada del día.
+Accesos directos a las diferentes aventuras.
+Insignias recientes.
+Un pequeño mensaje motivador.
+
+Ejemplo de saludo:
+«¡Hola, explorador! Hoy hay nuevos descubrimientos esperándote. ¿Estás listo para continuar?».
+La misión del día aparecerá en una tarjeta grande y llamativa, con una ilustración y una breve descripción.
+También habrá una opción llamada «Continuar mi aventura», que llevará al usuario a la última actividad que dejó pendiente.
+
+n tendrá una pequeña historia que haga que el usuario quiera descubrir qué sucede.
+Las misiones estarán organizadas por mundos o capítulos.
+Mundo 1: El misterio de los alimentos.
+El usuario aprenderá a reconocer los diferentes grupos de alimentos, sus características y la importancia de la variedad.
+Ejemplos de misiones:
+El desayuno misterioso.
+¿Qué contiene este alimento?
+El secreto de las frutas y verduras.
+Detectives de etiquetas.
+La misión del plato variado.
+
+Mundo 2: Los poderes de los nutrientes.
+El usuario descubrirá qué son los carbohidratos, las proteínas, las grasas, las vitaminas, los minerales, la fibra y el agua.
+Ejemplos de misiones:
+El equipo de los nutrientes.
+¿Quién hace qué en el cuerpo?
+El viaje de una proteína.
+La aventura de la fibra.
+El misterio de las vitaminas.
+Mundo 3: Decisiones de la vida diaria.
+Aquí se presentarán situaciones comunes de estudiantes.
+Por ejemplo:
+«Tienes clases durante la mañana y poco tiempo para preparar algo. ¿Qué opciones podrías considerar para desayunar?».
+El usuario podrá elegir entre distintas alternativas y conocer las ventajas, características y limitaciones de cada una, sin recibir regaños por sus decisiones.
+
+Otras misiones:
+¿Qué puedo llevar a la escuela?
+Comprando con un presupuesto limitado.
+El recreo inteligente.
+¿Qué puedo preparar con lo que tengo?
+Mitos y realidades de la alimentación.
+Mundo 4: Exploradores del bienestar.
+Este capítulo conectará la alimentación con el descanso, el movimiento y el bienestar emocional.
+Ejemplos:
+¿Por qué necesitamos descansar?
+Descubre diferentes formas de moverte.
+Reconoce tus emociones.
+Un momento para desconectarte.
+Hábitos pequeños para el día a día.
+
+Mundo 5: Guardianes del planeta.
+Aquí se conectará la alimentación con el cuidado del medio ambiente.
+Ejemplos:
+¿Qué sucede con los residuos de frutas?
+El viaje de una cáscara.
+¿Qué podemos aprovechar?
+Detectives del desperdicio.
+Diseña una solución sostenible.
+Cada misión tendrá una introducción narrativa, una actividad interactiva, una explicación educativa y una recompensa de experiencia.
+
+8. Cómo funcionarán las recompensas
+El usuario ganará puntos de experiencia al completar actividades y descubrir información.
+Podrá conseguir:
+Puntos de experiencia.
+Insignias especiales.
+Nuevos accesorios para VITA.
+Nuevas ilustraciones y elementos decorativos.
+Nuevas historias.
+Reconocimientos por completar capítulos.
+Algunas insignias podrían llamarse:
+Detective de alimentos.
+Explorador de nutrientes.
+Maestro de las etiquetas.
+Creador de recetas.
+Guardián del planeta.
+Explorador del bienestar.
+No se castigará al usuario por faltar un día, perder una misión o equivocarse. No habrá presión por mantener rachas ni clasificaciones que comparen cuerpos o hábitos personales.
+
+9. Apartado de Alimentación
+Esta sección será como una biblioteca interactiva de conocimientos sobre alimentación.
+No quiero que parezca un libro de texto. Quiero que cada tema tenga ilustraciones, tarjetas, ejemplos cotidianos y actividades pequeñas.
+Estará dividida en los siguientes subapartados:
+A. Conoce los alimentos.
+Explicaciones sobre los grupos de alimentos, sus características y ejemplos.
+B. Descubre los nutrientes.
+Información sobre proteínas, carbohidratos, grasas, vitaminas, minerales, fibra y agua.
+Cada nutriente tendrá una ficha con su función general, alimentos en los que se encuentra y ejemplos de su importancia.
+
+C. Aprende a combinar alimentos.
+El usuario podrá seleccionar ingredientes y descubrir distintas combinaciones para desayunos, comidas, cenas o refrigerios.
+La aplicación deberá considerar disponibilidad, presupuesto, tiempo, preferencias y alergias. No deberá calcular dietas personalizadas para perder peso ni establecer cantidades basadas en medidas corporales.
+D. Mitos y realidades.
+Un espacio para aclarar ideas equivocadas sobre la alimentación.
+Por ejemplo:
+¿Todos los carbohidratos son malos?
+¿Comer saludable significa gastar mucho?
+¿Es necesario eliminar alimentos que nos gustan?
+¿Todos necesitamos comer exactamente lo mismo?
+
+E. Recetario VITALIA.
+Aquí aparecerán las recetas creadas para el proyecto y otras preparaciones sencillas.
+Cada receta tendrá nombre, fotografía o ilustración, ingredientes, preparación paso a paso, tiempo aproximado, posibles sustituciones y una explicación de los nutrientes o grupos de alimentos presentes.
+
+10. Laboratorio de alimentos
+Este apartado será una de las características más originales de VITALIA, porque conectará la aplicación con los alimentos que ustedes desarrollen físicamente.
+Se llamará Laboratorio de alimentos VITALIA.
+Su propósito será enseñar a experimentar, conocer ingredientes, investigar sus propiedades y descubrir cómo preparar alimentos de manera sencilla.
+La pantalla principal tendrá una apariencia de laboratorio moderno, con colores verdes, amarillos y blancos, ilustraciones de frutas, utensilios, recipientes e ingredientes.
+Tendrá cuatro secciones:
+
+A. Experimentos de alimentos.
+Aquí se explicarán pequeñas actividades educativas relacionadas con los alimentos.
+Ejemplos:
+¿Qué sucede cuando mezclamos ciertos ingredientes?
+¿Cómo cambia la textura de un alimento durante su preparación?
+¿Por qué algunas frutas cambian de color?
+¿Cómo podemos conservar mejor ciertos alimentos?
+B. Crea tu receta.
+El usuario podrá seleccionar ingredientes disponibles y descubrir combinaciones posibles.
+Por ejemplo, podrá seleccionar huevo, avena, plátano, yogur o frutas y recibir ideas de preparaciones.
+La aplicación explicará los ingredientes utilizados y permitirá consultar la receta completa.
+
+C. Recetas del proyecto.
+Aquí aparecerán los alimentos elaborados por el equipo de VITALIA.
+Cada alimento tendrá una ficha propia con su nombre, fotografía, ingredientes, preparación, información nutricional disponible y explicación de por qué fue seleccionado para el proyecto.
+D. Escanea y descubre.
+Esta sección estará conectada con los códigos QR que se colocarán en los prototipos físicos o en los espacios de exposición.
+Al escanear un código QR, el usuario podrá entrar directamente a la ficha del alimento correspondiente.
+Por ejemplo, si escanea el QR de una preparación elaborada por el equipo, aparecerá su receta, ingredientes, proceso de elaboración y explicación educativa.
+
+Y algunas de las siguientes recetas:
+
+Galletas saludables  avena y plátano
+Nombre minguita feliz
+Ingredientes:
+*   2 plátanos maduros.
+*   1 taza de avena.
+*   1 cucharadita de canela.
+*   1 cucharada de miel.
+*   ¼ de taza de pasas o chispas de chocolate amargo (opcional).
+Preparación:
+1.    Machaca los plátanos en un recipiente.
+2.    Agrega la avena, la canela y la miel.
+3.    Mezcla hasta obtener una masa uniforme.
+4.    Forma pequeñas galletas y colócalas en una charola.
+5.    Hornea a 180 °C durante 15-20 minutos.
+6.    Deja enfriar y sirve.
+
+2. Jugo natural de naranja y zanahoria
+Nutrí sorbo
+Ingredientes:
+*   2 naranjas.
+*   1 zanahoria.
+*   ½ taza de agua.
+*   Hielo al gusto.
+
+Preparación:
+1.    Lava y pela la zanahoria.
+2.    Exprime las naranjas.
+3.    Coloca el jugo, la zanahoria y el agua en la licuadora.
+4.    Licúa hasta integrar los ingredientes.
+5.    Sirve con hielo.
+
+3. Jugo de piña con limon nutrí sorbo 
+
+Ingredientes:
+*   1 taza de piña picada.
+*   Jugo de 1 limón.
+*   1 taza de agua.
+*   Hielo al gusto.
+Preparación:
+1.    Corta la piña en trozos pequeños.
+2.    Agrega la piña, el limón y el agua a la licuadora.
+3.    Licúa durante un minuto.
+4.    Sirve frío.
+
+Licuado de fresa
+Nutrí sorbo
+
+Ingredientes:
+*   1 taza de fresas.m
+*   1 taza de leche.
+*   3 cucharadas de avena.
+*   1 cucharadita de miel (opcional).
+Preparación:
+1.    Lava y desinfecta las fresas.
+2.    Coloca las fresas, la leche y la avena en la licuadora.
+3.    Agrega miel si lo deseas.
+4.    Licua hasta obtener una mezcla cremosa.
+5.    Sirve inmediatamente 
+
+Licuado de plátano ...
+:nutrí sorbo
+leche
+znews
+Ingredientes:
+*   1 plátano.
+*   1 taza de leche.
+*   2 cucharadas de avena.
+*   Una pizca de canela.
+*   Hielo al gusto.
+Preparación:
+1.    Pela y corta el plátano.
+2.    Agrega todos los ingredientes a la licuadora.
+3.    Licúa durante 1 minuto.
+4.    Sirve en un vaso.
+
+Ingredientes - 1 sándwich
+
+ •  Pan: 2 rebanadas de pan integral
+ •  Pollo: 1 pechuga de pollo (150g aprox) en filete
+ •  Aderezo fit: 2 cdas de yogur griego sin azúcar + jugo de 1/2 limón + sal + pimienta + ajo en polvo
+ •  Verdura: Lechuga, jitomate en rodajas, cebolla morada y aguacate
+ •  Extra: 1 rebanada de queso panela o Oaxaca light (opcional)
+ •  Para sazonar el pollo: Paprika, ajo en polvo, sal, pimienta y un chorrito de limón
+
+Cómo se hace
+
+ •  1. Sazona el pollo: Ponle paprika, ajo, sal, pimienta y limón. Déjalo 5 min.
+ •  2. Ásalo: En sartén con poquito aceite en spray, 4-5 min por lado hasta que quede doradito por fuera y jugoso por dentro. Déjalo reposar 2 min y córtalo en tiritas.
+ •  3. Haz el aderezo: Mezcla el yogur griego con limón, sal y pimienta. Sabe a aderezo ranch pero fit.
+ •  4. Arma el sándwich: Pan tostado + aderezo + lechuga + jitomate + pollo + aguacate + cebolla + queso si quieres.
+ •  5. Caliéntalo: Ponlo 1 min en la sartén o en la sandwichera para que se derrita el queso y quede doradito.
+
+
+Los códigos QR podrán utilizarse también en carteles de la cafetería escolar, si la escuela autoriza su implementación.
+11. Apartado BIOTEC: biotecnología y aprovechamiento de residuos
+Quiero que BIOTEC sea una sección distintiva de VITALIA. No será solamente una sección de reciclaje: será un pequeño espacio de ciencia, innovación y creatividad donde el usuario descubrirá cómo los residuos orgánicos pueden convertirse en materiales y productos experimentales.
+
+Nombre: BIOTEC VITALIA
+Subtítulo: La ciencia transforma lo que otros desechan.
+La pantalla principal tendrá una apariencia de laboratorio ecológico y tecnológico. Utilizará verde, azul, blanco y pequeños detalles morados. Aparecerán ilustraciones de frutas, hojas, moléculas, materiales y experimentos.
+El texto de bienvenida será:
+«¿Sabías que algunos residuos de frutas y otros materiales orgánicos pueden aprovecharse para desarrollar nuevos productos? En BIOTEC descubrirás cómo la ciencia, la creatividad y la tecnología pueden transformar los residuos en nuevas posibilidades».
+
+BIOTEC estará dividido en cinco secciones:
+A. Del residuo al recurso.
+Explicará qué son los residuos orgánicos, de dónde provienen y por qué es importante buscar maneras de aprovecharlos.
+Ejemplos:
+Cáscaras de plátano.
+Cáscaras de naranja.
+Restos de manzana.
+Semillas y otros residuos de frutas.
+Restos vegetales.
+B. Laboratorio de bioplásticos.
+Esta sección explicará qué son los bioplásticos, qué materiales pueden utilizarse en determinados procesos experimentales y cómo se investigan sus propiedades.
+
+Se mostrará el proyecto de bioplástico elaborado por el equipo, con fotografías del proceso, materiales utilizados, resultados y observaciones.
+También se explicará que no todos los bioplásticos son iguales ni todos se degradan de la misma manera. Su impacto depende de su composición y de las condiciones en las que se encuentren.
+C. ¿Qué podemos crear?
+Esta sección mostrará ejemplos de posibles aplicaciones de materiales desarrollados a partir de recursos orgánicos.
+Por ejemplo:
+Bolsas experimentales.
+Láminas y películas biodegradables.
+Empaques experimentales.
+Objetos decorativos.
+Materiales para proyectos escolares.
+Prototipos de textiles o prendas experimentales.
+
+Se aclarará que son posibilidades de investigación y desarrollo, no productos automáticamente seguros o listos para comercializar. Cada material necesitaría pruebas de resistencia, degradación y seguridad según su uso.
+D. Retos ecológicos.
+El usuario podrá resolver actividades como:
+Identifica qué residuos se pueden aprovechar.
+Clasifica residuos orgánicos e inorgánicos.
+Diseña una idea para reducir desperdicios.
+Encuentra una segunda utilidad para un material.
+Resuelve el misterio de los residuos de una receta.
+
+E. Galería de innovación.
+Aquí se mostrarán fotografías y descripciones de los prototipos desarrollados por estudiantes.
+Cada proyecto tendrá un nombre, materiales de origen, explicación, fotografías, resultados y posibles aplicaciones.
+La idea central de BIOTEC será enseñar que el aprovechamiento de los alimentos no termina cuando los consumimos: también podemos investigar qué hacer con los residuos que quedan.
+12. Apartado de Movimiento
+Este espacio enseñará que moverse puede formar parte de la vida diaria de muchas maneras diferentes.
+Su apariencia será dinámica, con ilustraciones, tarjetas y pequeños personajes realizando actividades.
+Estará dividido en:
+
+A. Explora el movimiento.
+Explicaciones sobre diferentes formas de actividad física, como caminar, bailar, jugar, andar en bicicleta, practicar deportes y realizar actividades de movilidad.
+B. Actividades para descubrir.
+Se mostrarán actividades sencillas que puedan adaptarse a distintas edades, experiencias y capacidades.
+C. Muévete a tu manera.
+El usuario podrá seleccionar qué tipo de actividad le interesa: baile, caminata, movilidad, juegos recreativos o ejercicios generales de movimiento.
+La aplicación ofrecerá alternativas sencillas y recordará que descansar también es importante.
+
+D. Aprende sobre tu cuerpo.
+Información educativa sobre músculos, huesos, articulaciones, coordinación, equilibrio y la importancia de la recuperación.
+No habrá objetivos de calorías quemadas, pérdida de peso, medidas físicas ni competencias corporales.
+13. Apartado de Bienestar
+Esta sección estará dedicada al bienestar emocional y al autocuidado.
+Su apariencia será tranquila, con fondos claros, tonos azules, morados y detalles verdes.
+Tendrá las siguientes opciones:
+
+A. ¿Cómo te sientes hoy?
+El usuario podrá elegir voluntariamente entre diferentes emociones, como alegría, tranquilidad, preocupación, cansancio, frustración o tristeza.
+Después recibirá un mensaje de acompañamiento general, sin diagnósticos.
+B. Pausas conscientes.
+Actividades breves para hacer una pausa, respirar con tranquilidad, descansar de las pantallas o prestar atención al momento presente.
+C. Conócete mejor.
+Preguntas de reflexión sobre emociones, descanso, convivencia, autoestima y hábitos cotidianos.
+
+D. Mensajes VITA.
+Pequeños mensajes positivos relacionados con el autocuidado.
+Ejemplos:
+«No tienes que hacerlo todo perfecto para aprender algo nuevo».
+«Cada persona tiene circunstancias diferentes. Encuentra hábitos que puedan funcionar en tu vida».
+«Descansar también forma parte de cuidarte».
+La aplicación no sustituirá la atención de un profesional ni intentará diagnosticar problemas emocionales. Si alguien expresa que necesita ayuda, deberá ofrecerle orientación para buscar apoyo de una persona adulta de confianza.
+
+14. Asistente de inteligencia artificial: VITA responde
+Esta será una de las funciones más interesantes de la aplicación.
+Quiero que VITALIA tenga un asistente de inteligencia artificial que permita a los usuarios escribir preguntas y recibir explicaciones sencillas.
+El asistente se llamará VITA RESPONDE.
+Su apariencia será una ventana de conversación con VITA como personaje principal. Tendrá una caja de texto donde el usuario podrá escribir y un botón para enviar su pregunta.
+
+Ejemplos de preguntas:
+¿Qué son las proteínas?
+¿Qué alimentos contienen fibra?
+¿Qué puedo preparar con huevo y plátano?
+¿Cuál es la diferencia entre un alimento natural y uno ultraprocesado?
+¿Qué significa que un producto tenga fibra?
+¿Qué puedo hacer con las cáscaras de algunas frutas?
+¿Por qué es importante dormir?
+¿Qué puedo hacer si tengo poco tiempo para preparar algo?
+El asistente deberá responder con lenguaje claro, ejemplos cotidianos y explicaciones adecuadas para adolescentes.
+
+También podrá explicar temas que aparezcan dentro de las misiones y recomendar contenidos educativos de la propia aplicación.
+Reglas importantes para VITA RESPONDE:
+No recomendar dietas para perder peso.
+No establecer metas basadas en el peso o las medidas corporales.
+No diagnosticar enfermedades ni problemas emocionales.
+No inventar información nutricional.
+No presentar información médica como si fuera un diagnóstico.
+No recomendar suplementos o tratamientos.
+No solicitar fotografías corporales ni datos personales innecesarios.
+Si una pregunta requiere atención médica, deberá recomendar hablar con una persona adulta de confianza y un profesional de salud.
+
+La inteligencia artificial deberá utilizar información educativa revisada y fuentes confiables. No quiero que invente respuestas solamente para contestar rápido.
+También quiero que tenga botones de preguntas sugeridas para que el usuario pueda comenzar una conversación sin tener que pensar qué escribir.
+Ejemplo:
+«¡Hola! Soy VITA. ¿Qué te gustaría descubrir hoy?».
+Explícame un nutriente.
+Ayúdame a entender una receta.
+Tengo una duda sobre los alimentos.
+Quiero aprender sobre bioplásticos.
+Explícame algo de las misiones.
+15. Apartado de Progreso y logros
+Esta sección mostrará todo lo que el usuario ha descubierto durante su aventura.
+
+Tendrá:
+Nivel actual.
+Experiencia acumulada.
+Misiones completadas.
+Insignias obtenidas.
+Capítulos desbloqueados.
+Evolución de VITA.
+Temas que ya ha explorado.
+También incluirá una biblioteca de descubrimientos donde se podrán consultar nuevamente las explicaciones, recetas y contenidos que el usuario haya desbloqueado.
+El progreso se medirá por conocimientos y actividades educativas, no por características físicas.
+
+16. El camino de VITALIA: cómo avanzará el usuario
+Quiero que VITALIA tenga un camino de progreso parecido al de un videojuego de aventuras.
+Al entrar, el usuario comenzará en el punto de partida llamado «El origen de VITALIA».
+A partir de ahí irá descubriendo diferentes territorios.
+Primera zona: El Jardín de los Descubrimientos.
+Aquí conocerá a VITA y aprenderá las bases de la alimentación.
+
+Segunda zona: El Valle de los Nutrientes.
+Descubrirá los diferentes nutrientes y sus funciones.
+Tercera zona: La Ciudad de las Decisiones.
+Resolverá situaciones relacionadas con la escuela, la compra de alimentos y la vida cotidiana.
+Cuarta zona: El Santuario del Bienestar.
+Aprenderá sobre descanso, movimiento y bienestar emocional.
+Quinta zona: El Laboratorio de la Innovación.
+Descubrirá experimentos, aprovechamiento de residuos y biotecnología.
+Cada zona tendrá un mapa visual con caminos, estaciones, personajes y misiones. Algunas actividades podrán estar disponibles desde el principio y otras se desbloquearán al completar los capítulos correspondientes.
+
+La meta no será terminar lo más rápido posible, sino explorar y aprender.
+17. Personajes secundarios
+Además de VITA, quiero que existan personajes que aparezcan en diferentes secciones y ayuden a explicar los temas.
+NUTRI: personaje relacionado con los nutrientes. Tendrá una apariencia pequeña, colorida y tecnológica. Su función será explicar qué son los nutrientes y dónde podemos encontrarlos.
+CHEFIA: personaje relacionado con la cocina y las recetas. Será una pequeña chef creativa que enseñará preparaciones sencillas, ingredientes y alternativas económicas.
+
+ECO: personaje relacionado con el medio ambiente. Tendrá apariencia de criatura natural, con hojas y detalles azules y verdes. Explicará el aprovechamiento de residuos y el cuidado del planeta.
+MOVA: personaje relacionado con el movimiento. Tendrá una apariencia dinámica y deportiva. Enseñará distintas formas de movimiento y la importancia del descanso.
+LUMI: personaje relacionado con el bienestar emocional. Será tranquilo, expresivo y amigable. Acompañará las actividades de reflexión y autocuidado.
+Cada personaje tendrá una personalidad diferente, pero todos compartirán el mismo estilo de ilustración para que parezcan parte del mismo universo.
+
+18. Funciones adicionales que harán diferente a VITALIA
+Además de los apartados principales, propongo incorporar algunas funciones que pueden hacer que la aplicación tenga más utilidad.
+Buscador inteligente de alimentos.
+Permitirá buscar un alimento y consultar información educativa sobre sus características, nutrientes y formas de preparación.
+Desafío sorpresa.
+Cada vez que el usuario entre, podrá encontrar una pregunta, acertijo o actividad diferente.
+Dato curioso del día.
+Una tarjeta mostrará información interesante sobre alimentación, cuerpo humano, ciencia o medio ambiente.
+
+Glosario VITALIA.
+Un diccionario sencillo con términos como proteína, fibra, vitamina, metabolismo, bioplástico, residuos orgánicos y sostenibilidad.
+Biblioteca de recetas.
+Un espacio para guardar y consultar recetas educativas.
+Galería de proyectos.
+Permitirá mostrar los experimentos y prototipos desarrollados por el equipo y, en una etapa posterior, por otros estudiantes.
+
+VITALIA deberá contar con:
+Registro e inicio de sesión opcionales, si realmente son necesarios.
+Perfil del usuario con apodo y avatar.
+Navegación funcional entre todas las secciones.
+Base de datos para guardar el progreso, si se habilitan cuentas.
+Sistema de misiones y recompensas.
+Buscador de contenidos.
+Recetario interactivo.
+Lectura de códigos QR mediante la cámara, con autorización del usuario.
+Asistente de inteligencia artificial conectado a un modelo real.
+Panel para administrar y actualizar recetas, misiones y contenidos.
+Diseño adaptable a teléfonos y tabletas.
+Protección de datos y controles de privacidad.
+
+La aplicación deberá funcionar aunque el usuario no utilice el asistente de IA. Las misiones, recetas y contenidos educativos principales deben estar disponibles por sí mismos.
+También quiero que la primera versión sea sencilla de mantener. No necesitamos comenzar con funciones complicadas, sino construir una aplicación que funcione correctamente y después ampliarla.
+21. Cómo quiero que funcione la inteligencia artificial dentro de VITALIA
+Es importante que el creador de aplicaciones no confunda dos cosas:
+Una cosa es utilizar inteligencia artificial para construir VITALIA y otra es integrar inteligencia artificial dentro de VITALIA para que los usuarios puedan conversar con ella.
+
+Quiero ambas cosas, pero son funciones distintas.
+La IA que construye la aplicación deberá crear las pantallas, botones, menús, personajes, bases de datos y funciones.
+La IA interna será VITA RESPONDE, que estará disponible para resolver dudas educativas.
+Para esta segunda función será necesario conectar un servicio de IA, configurarlo de forma segura y establecer límites de uso y costos. La clave de acceso del servicio no debe quedar expuesta en la aplicación.

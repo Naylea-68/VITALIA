@@ -1,0 +1,10 @@
+{
+  "name": "Remix VITALIA",
+  "description": "Aprende a cuidarte jugando. Aplicación educativa interactiva sobre alimentación, nutrientes, movimiento, bienestar emocional y biotecnología.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
